@@ -1,5 +1,3 @@
-server:
-  port: 8001
 message:
   greeting: Hello! Pricing-service configuration
 product:
