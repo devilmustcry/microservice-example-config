@@ -1,5 +1,3 @@
-server:
-  port: 8000
 message:
   greeting: Hello! Product-service configuration
 eureka:

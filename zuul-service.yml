@@ -1,5 +1,3 @@
-server:
-  port: 9999
 message:
   greeting: Hello! Zuul-service configuration
 zuul:
